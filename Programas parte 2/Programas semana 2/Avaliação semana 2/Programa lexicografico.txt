@@ -1,0 +1,18 @@
+O resultado dos testes com seu programa foi:
+
+***** [0.25 pontos]: Testando as strings: ['maria', 'josé', 'PAULO', 'Catarina'] - Falhou *****
+AssertionError: Expected Catarina but got maria
+
+***** [0.25 pontos]: Testando as strings: ['AAAAAA', 'b'] - Falhou *****
+AssertionError: Expected AAAAAA but got b
+
+***** [0.25 pontos]: Testando as strings: ['zé', 'lu', 'fê'] - Falhou *****
+AssertionError: Expected fê but got lu
+
+O resultado dos testes com seu programa foi:
+
+***** [0.25 pontos]: Testando as strings: ['oĺá', 'A', 'a', 'casa'] - Falhou *****
+AssertionError: Expected A but got oĺá
+
+***** [0.25 pontos]: Testando as strings: ['zé', 'lu', 'fê'] - Falhou *****
+AssertionError: Expected fê but got zé

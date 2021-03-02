@@ -1,0 +1,23 @@
+Problema 1 - String - Feito 
+
+Escrever uma função que recebe uma lista de strings contendo nomes de pessoas como parâmetro e devolve o nome mais curto, o nome mais curto que tiver dentro dessa lista de strings. A função deve ignorar espaços antes e depois do nome e deve devolver o nome, entre aspas, capitalizado, ou seja, apenas com a primeira letra maiúscula. ~
+
+Exemplo 
+
+lista_de_nomes = ["  ana  ", "  jose  ", "arquibaldo", " maria ", " wesley ","alouhis"]
+
+mais_curto ( lista_de_nomes) 
+
+Ele deve devolver Ana ignorando os espaços.
+
+escrever o testa_mais_curto para testar sua função. 
+
+
+
+Problema 2 - String - Feito 
+
+Escreva uma função que recebe array de strings como parâmetro e devolve o primeiro string na ordem lexicográfica, ignorando-se letras maiúsculas e minúsculas. Ou seja o primeiro que tem o ord menor no array. 
+
+menor_string(minha_string)
+
+def testa_menor_string():

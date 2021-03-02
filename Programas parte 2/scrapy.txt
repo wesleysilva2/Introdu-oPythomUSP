@@ -1,0 +1,19 @@
+Web Crawling 
+
+E uma busca que o programa faz, e como o google deixa seu site atualizado, é tipo uma extração, pega dados de sites novos e atualizações de sites ja existentes e armazena no google. Quem pega essas informações e chamado de spiders
+
+Scrapy é um framework assincrono, que extrai dados de uma pagina web, crawling é seguir os links das paginas para poder extrair com o scraping.
+
+Por exemplo num site de um evento, o spider entra no site clica em cada um dos links e armazena as informações contidas neles.
+
+As spiders são classes que definem como o site sera raspado(extraido), incluindo como executar o rastreamento e como capturar os dados. En
+
+scrapy e um codigo aberto que faz isso.
+
+Para instalar usamos o 
+
+pip install scrapy 
+
+Criando um projeto com: 
+
+scrapy startproject scrapy_cutual_sp (scrapy_cutural_sp e o nome do spider)
