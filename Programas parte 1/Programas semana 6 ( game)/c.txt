@@ -1,0 +1,8 @@
+def campeonato(user, comp):
+    cont = 1
+    while(cont <= 3):
+        print("**** Rodada ",cont," ****")
+        partida()
+        cont = cont + 1
+    
+    print("Placar: Você",user,"X",comp,"Computador")

@@ -1,0 +1,16 @@
+O resultado dos testes com seu programa foi:
+
+***** [0.01 pontos]: Testando usuario_escolhe_jogada com jogada inválida se n <= m (n = 3, m = 5, respostas 4, 3) - Falhou *****
+Timeout
+
+***** [0.01 pontos]: Testando usuario_escolhe_jogada com jogada inválida se n <= m (n = 3, m = 5, respostas 4, 1) - Falhou *****
+Timeout
+
+***** [0.01 pontos]: Checando partida unica que o computador ganha na primeira jogada (n = 2, m = 3, jogadas = ()) - Falhou *****
+AssertionError: Computador deveria ter ganhado
+
+***** [0.01 pontos]: Checando partida unica que o computador ganha na primeira jogada (n = 2, m = 2, jogadas = ()) - Falhou *****
+AssertionError: Computador deveria ter ganhado
+
+***** [0.01 pontos]: Checando partida unica que o computador ganha na primeira jogada (n = 1, m = 1, jogadas = ()) - Falhou *****
+AssertionError: Computador deveria ter ganhado
